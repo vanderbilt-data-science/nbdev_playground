@@ -3,10 +3,10 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"mult2": "00_core.ipynb",
-         "mult3": "Untitled.ipynb"}
+         "mult3": "example_notebook.ipynb"}
 
 modules = ["core.py",
-           "load_files.py"]
+           "example_notebook.py"]
 
 doc_url = "https://vanderbilt-data-science.github.io/nbdev_playground/"
 
