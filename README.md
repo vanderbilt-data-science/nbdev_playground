@@ -1,7 +1,7 @@
 # nbdev_playground
 
 The purpose of this repo is to explore a data science workflow with nbdev and reviewed pull requests on GitHub.
-
+was i 
 ## What has already been done
 Some steps have already been executed with nbdev.  First, a new repository was created from the command line using `nbdev_new`.  This populates a new directory with all of the files required for an nbdev project.  Secondly, the command line function `nbdev_install_git_hooks` was run, which enforces that your notebooks are both trusted and removes unwanted metadata (e.g., execution counts).  The relevant git hooks are now in the repo.  Lastly, the `settings.ini` file was filled out.  This essentially consists of filling out all of the commented fields in the first section of the file.  Additionally, a `no_test` flag was added to the line `tst_flags` (which was also uncommented), so that some analysis cells can be ignored.
 
