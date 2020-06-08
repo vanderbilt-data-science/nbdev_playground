@@ -3,10 +3,12 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"mult2": "00_core.ipynb",
+         "a_working_function": "01_something_different_than_that.ipynb",
          "mult3": "example_notebook.ipynb",
          "mult5": "load_files.ipynb"}
 
 modules = ["core.py",
+           "something_else.py",
            "example_notebook.py",
            "load_files.py"]
 
