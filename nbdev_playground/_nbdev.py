@@ -7,6 +7,7 @@ index = {"mult2": "00_core.ipynb",
          "mult5": "load_files.ipynb"}
 
 modules = ["core.py",
+           "stuff.py",
            "example_notebook.py",
            "load_files.py"]
 
