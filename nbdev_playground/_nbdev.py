@@ -7,6 +7,7 @@ index = {"mult2": "00_core.ipynb",
          "hello_world": "01_nbdev_try.ipynb",
          "div2": "01_run_analysis.ipynb",
          "a_working_function": "01_something_different_than_that.ipynb",
+         "this_thing": "all_flags_test.ipynb",
          "mult5": "load_files.ipynb"}
 
 modules = ["core.py",
@@ -14,6 +15,7 @@ modules = ["core.py",
            "nbdev_try.py",
            "run_analysis.py",
            "something_else.py",
+           "all_flags_test.py",
            "example_notebook.py",
            "load_files.py"]
 
