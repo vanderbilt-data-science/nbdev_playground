@@ -4,6 +4,7 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"mult2": "00_core.ipynb",
          "mult3": "example_notebook.ipynb",
+         "some_other_thing": "01_do_stuff.ipynb",
          "hello_world": "01_nbdev_try.ipynb",
          "div2": "01_run_analysis.ipynb",
          "a_working_function": "01_something_different_than_that.ipynb",
