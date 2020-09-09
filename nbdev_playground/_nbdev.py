@@ -6,6 +6,7 @@ index = {"mult2": "00_core.ipynb",
          "mult3": "example_notebook.ipynb",
          "hello_world": "01_nbdev_try.ipynb",
          "div2": "01_run_analysis.ipynb",
+         "cube": "01_run_analysis.ipynb",
          "a_working_function": "01_something_different_than_that.ipynb",
          "this_thing": "all_flags_test.ipynb",
          "mult5": "load_files.ipynb"}
