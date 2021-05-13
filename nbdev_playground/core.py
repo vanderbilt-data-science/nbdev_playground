@@ -4,6 +4,7 @@ __all__ = ['add_one', 'mult2', 'add_one', 'mult2']
 
 # Cell
 def add_one(val):
+    print(val)
     return val + 1
 
 # Cell
@@ -17,6 +18,7 @@ def mult2(voi):
 
 # Cell
 def add_one(val):
+    print(val)
     return val + 1
 
 # Cell
