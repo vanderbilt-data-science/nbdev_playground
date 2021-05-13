@@ -2,8 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"mult2": "00_core.ipynb",
-         "mult3": "example_notebook.ipynb",
+index = {"add_one": "00_core.ipynb",
+         "mult2": "00_core.ipynb",
+         "mult3": "01_do_stuff.ipynb",
          "some_other_thing": "01_do_stuff.ipynb",
          "hello_world": "01_nbdev_try.ipynb",
          "div2": "01_run_analysis.ipynb",
@@ -17,7 +18,6 @@ modules = ["core.py",
            "run_analysis.py",
            "something_else.py",
            "all_flags_test.py",
-           "example_notebook.py",
            "load_files.py"]
 
 doc_url = "https://vanderbilt-data-science.github.io/nbdev_playground/"
