@@ -9,6 +9,7 @@ The objectives of this workshop are to provide the following:
 * Brief motivation of tools to collaborate with Jupyter notebooks
 * Brief hands-on use of selected nbdev command line tools
 * Resolving merge conflicts with nbdev
+
 We'll be doing this using this repo in Google Colab to standardize the environment for everyone.  Your workflow on your local machine will look slightly different, but the general set of steps to use nbdev will be very similar.  These will be discussed during the workshop.
 
 Additionally, the nbdev package provides a tremendous amount of functionality which all cannot be addressed during this workshop.  Although many topics will be addressed, this workshop will focus primarily on collaboration, specifically through the use of building modules and using the command line merge conflict resolution.  Additionally, you'll need to be familiar with the tool set and how to use Google Colab with Google Drive.  The required preparation of the workshop is outlined in the section below.
