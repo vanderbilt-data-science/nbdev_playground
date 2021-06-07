@@ -16,7 +16,7 @@ Additionally, the nbdev package provides a tremendous amount of functionality wh
 
 ## Workshop preparation
 Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on building modules, so make sure to complete the sections specifically related to this activity.  Building docs will not be focused on during this workshop, but please feel free to explore this functionality if time allows.  Before coming to the workshop, complete the following assignments:
-1.  Add some of the challenges you've encountered _collaborating with others_ using Jupyter notebooks (e.g., ever had a merge conflict?)
+1.  Add some of the challenges you've encountered _collaborating with others_ using Jupyter notebooks (e.g., ever had a merge conflict?) here: https://docs.google.com/document/d/1vbY397SLdcXd8ySR9nf1fy37qK3zRCsG1stXY0IOJqQ/ 
 2.  Read over the nbdev introduction (https://nbdev.fast.ai/), particularly examining the features.  Based on your answers from 1, identify some features of nbdev which may assist in resolving some of your issues.  Add this to the relevant section in the shared document.
 3. Familiarize yourself with using nbdev in Google Colab.  Follow the instructions here: https://nbdev.fast.ai/tutorial_colab.html up to and including `Writing a New Module and the Setup Cell for Each Notebook`.
 4. The `Writing a New Module and the Setup Cell for Each Notebook` contains a link to the general nbdev tutorial.  Follow the link (https://nbdev.fast.ai/tutorial.html) and complete the tutorial.  Make sure to complete everything up to (but not necessarily including) `View Docs Locally`.
