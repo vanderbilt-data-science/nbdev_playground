@@ -4,30 +4,28 @@
 
 This repository has been generated from the nbdev_template from nbdev's repository at this location: https://github.com/fastai/nbdev_template .  Visit this link to create your own project using the template or for tips in troubleshooting as you do this on your own!
 
-## Workshop scope
-The objectives of this workshop are to provide the following:
+# Workshop scope
+The nbdev package provides a tremendous amount of functionality for exploratory programming and collaboration using Jupyter notebooks.  These all cannot be addressed during this workshop.  Although many topics will be addressed, this workshop will focus primarily on collaboration, specifically through the use of building modules and using the command line merge conflict resolution.  The schedule for the workshop is outlined below.  
+
+**Day 1 - Collaborating with nbdev: Code reuse across notebooks**  
 * Brief motivation of tools to collaborate with Jupyter notebooks
-* Brief hands-on use of selected nbdev command line tools
+* Brief hands-on use of selected nbdev command line tools  
+
+**Day 2 - Collaborating with nbdev: Resolving merge conflicts**  
 * Resolving merge conflicts with nbdev
 
-We'll be doing this using this repo in Google Colab to standardize the environment for everyone.  Your workflow on your local machine will look slightly different, but the general set of steps to use nbdev will be very similar.  These will be discussed during the workshop.
+We'll be using Google Colab to standardize the environment for everyone and minimize requirements for installation.  Your workflow on your local machine will look slightly different, but the general set of steps to use nbdev will be very similar.  These will be discussed during the workshop.
 
-Additionally, the nbdev package provides a tremendous amount of functionality which all cannot be addressed during this workshop.  Although many topics will be addressed, this workshop will focus primarily on collaboration, specifically through the use of building modules and using the command line merge conflict resolution.  Additionally, you'll need to be familiar with the tool set and how to use Google Colab with Google Drive.  The required preparation of the workshop is outlined in the section below.
+# Day 1: Code reuse and modularization
+Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on motivating nbdev and packaging notebook code for reusability across notebooks.  Make sure you that you have a Google account (gmail address) so that you'll be able to use Colab.  All answers to breakout rooms should be pasted in the following Google doc: https://docs.google.com/document/d/1vbY397SLdcXd8ySR9nf1fy37qK3zRCsG1stXY0IOJqQ/ 
 
-## Workshop preparation
-Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on building modules, so make sure to complete the sections specifically related to this activity.  Building docs will not be focused on during this workshop, but please feel free to explore this functionality if time allows.  Before coming to the workshop, complete the following assignments:
+# Day 2: Resolving merge conflicts with nbdev using GitHub Flow
+## Missed Day 1?
+If you missed Day 1, you'll need to familiarize yourself with nbdev and using it on Google Colab.  Perform the following activities to get yourself caught up:
 1.  Add some of the challenges you've encountered _collaborating with others_ using Jupyter notebooks (e.g., ever had a merge conflict?) here: https://docs.google.com/document/d/1vbY397SLdcXd8ySR9nf1fy37qK3zRCsG1stXY0IOJqQ/ 
 2.  Read over the nbdev introduction (https://nbdev.fast.ai/), particularly examining the features.  Based on your answers from 1, identify some features of nbdev which may assist in resolving some of your issues.  Add this to the relevant section in the shared document.
 3. Familiarize yourself with using nbdev in Google Colab.  Follow the instructions here: https://nbdev.fast.ai/tutorial_colab.html up to and including `Writing a New Module and the Setup Cell for Each Notebook`.
 4. The `Writing a New Module and the Setup Cell for Each Notebook` contains a link to the general nbdev tutorial.  Follow the link (https://nbdev.fast.ai/tutorial.html) and complete the tutorial.  Make sure to complete everything up to (but not necessarily including) `View Docs Locally`.
-
-## During the workshop
-The activities of the workshop will be as follows:
-* Brief discussion of collaborating with Jupyter notebooks
-* Using the nbdev_playground template repo on Google Colab
-* Brief hands-on walkthrough of generation of modules with nbdev
-* Pushing to the GitHub repo
-* Resolving merge conflicts using nbdev
 
 ## In-workshop activity of resolving merge conflicts
 1. Choose a person whose repo will be used (Person 1).
