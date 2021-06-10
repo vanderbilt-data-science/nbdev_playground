@@ -17,7 +17,9 @@ The nbdev package provides a tremendous amount of functionality for exploratory 
 We'll be using Google Colab to standardize the environment for everyone and minimize requirements for installation.  Your workflow on your local machine will look slightly different, but the general set of steps to use nbdev will be very similar.  These will be discussed during the workshop.
 
 # Day 1: Code reuse and modularization
-Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on motivating nbdev and packaging notebook code for reusability across notebooks.  Make sure you that you have a Google account (gmail address) so that you'll be able to use Colab.  All answers to breakout rooms should be pasted in the following Google doc: https://docs.google.com/document/d/1vbY397SLdcXd8ySR9nf1fy37qK3zRCsG1stXY0IOJqQ/ 
+Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on motivating nbdev and packaging notebook code for reusability across notebooks.  Make sure you that you have a Google account (gmail address) so that you'll be able to use Colab.  Be prepared to access your Google Drive.  If something goes wrong for you, please feel free to follow along and attempt these steps on your own later!  
+
+To get started on the in-workshop activities, click the blue `Open in Colab` badge at the top of this file.  Then, choose `0_setup.ipynb` and follow the directions!  If you get lost during the coding section, please feel to follow along in the `00_core_solns` notebook.  You can do this by choosing this notebook either on Google Drive (after you've cloned) or using the blue Open In Colab badge above and selecting that notebook.
 
 # Day 2: Resolving merge conflicts with nbdev using GitHub Flow
 ## Missed Day 1?
