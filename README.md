@@ -17,9 +17,18 @@ The nbdev package provides a tremendous amount of functionality for exploratory 
 We'll be using Google Colab to standardize the environment for everyone and minimize requirements for installation.  Your workflow on your local machine will look slightly different, but the general set of steps to use nbdev will be very similar.  These will be discussed during the workshop.
 
 # Day 1: Code reuse and modularization
-Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on motivating nbdev and packaging notebook code for reusability across notebooks.  Make sure you that you have a Google account (gmail address) so that you'll be able to use Colab.  Be prepared to access your Google Drive.  If something goes wrong for you, please feel free to follow along and attempt these steps on your own later!  
+Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on motivating nbdev and packaging notebook code for reusability across notebooks.  Prior to coming to the workshop, make sure that you have the following available:
+## Pre-requisites:
+### GitHub account and Personal Access Token
+One of the first things we'll do is create our own repository and clone it!  To follow along during the workshop, you'll need a GitHub account to do this.  You can sign up for GitHub here: [https://github.com](https://github.com), and click the green button to sign up.
 
-To get started on the in-workshop activities, click the blue `Open in Colab` badge at the top of this file.  Then, choose `0_setup.ipynb` and follow the directions!  If you get lost during the coding section, please feel to follow along in the `00_core_solns` notebook.  You can do this by choosing this notebook either on Google Drive (after you've cloned) or using the blue Open In Colab badge above and selecting that notebook.
+You will also **need** a personal access token for cloning the repository.  Make sure that after you create the token, you save it somewhere in case you need it again.  Also, make sure you _at least_ click **repo** (and all of the sub-permission of repo) when assigning your permissions.  Here are instructions on how to create the token from GitHub: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token .  Note that you can also create an SSH key, and if you've done this for GitHub in the past on your current computer, you don't need to do this again now.  If you're not sure, create a personal access token.
+
+### Installation of Jupyter notebook and Python
+You'll need to be able to use Jupyter notebooks during this session.  The easiest way to get access to everything you'll need is through installing Anaconda.  You can do this by following the instructions here: https://www.anaconda.com/products/individual or if that does not show the your correct operating system, you can pick the correct one from the list here: https://docs.anaconda.com/anaconda/install/
+
+### Installing nbdev
+We'll be working with nbdev today!  Once you have an installation of Anaconda or access to `pip` through a Python installation, you can install it using the instructions here: https://nbdev.fast.ai/tutorial.html#Install-nbdev
 
 # Day 2: Resolving merge conflicts with nbdev using GitHub Flow
 ## Missed Day 1?
