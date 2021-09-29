@@ -14,7 +14,7 @@ The nbdev package provides a tremendous amount of functionality for exploratory 
 **Day 2 - Collaborating with nbdev: Resolving merge conflicts**  
 * Resolving merge conflicts with nbdev
 
-We'll be using Google Colab to standardize the environment for everyone and minimize requirements for installation.  Your workflow on your local machine will look slightly different, but the general set of steps to use nbdev will be very similar.  These will be discussed during the workshop.
+You'll be using your own local machine, so make sure you have the pre-requisites below installed!
 
 # Day 1: Code reuse and modularization
 Come to the workshop armed with knowledge and prepared to collaborate!  During this workshop, we'll focus on motivating nbdev and packaging notebook code for reusability across notebooks.  Prior to coming to the workshop, make sure that you have the following available:
@@ -32,11 +32,11 @@ We'll be working with nbdev today!  Once you have an installation of Anaconda or
 
 # Day 2: Resolving merge conflicts with nbdev using GitHub Flow
 ## Missed Day 1?
-If you missed Day 1, you'll need to familiarize yourself with nbdev and using it on Google Colab.  Perform the following activities to get yourself caught up:
-1.  Add some of the challenges you've encountered _collaborating with others_ using Jupyter notebooks (e.g., ever had a merge conflict?) here: https://docs.google.com/document/d/1vbY397SLdcXd8ySR9nf1fy37qK3zRCsG1stXY0IOJqQ/ 
+If you missed Day 1, you'll need to familiarize yourself with nbdev.  Perform the following activities to get yourself caught up:
+1.  Add some of the challenges you've encountered _collaborating with others_ using Jupyter notebooks (e.g., ever had a merge conflict?) here: https://docs.google.com/document/d/1iOCXTNAsiYZmWVBhcuJS09qeGdZsxcEbUC7dlS11bXw/edit  
 2.  Read over the nbdev introduction (https://nbdev.fast.ai/), particularly examining the features.  Based on your answers from 1, identify some features of nbdev which may assist in resolving some of your issues.  Add this to the relevant section in the shared document.
-3. Familiarize yourself with using nbdev in Google Colab.  Follow the instructions here: https://nbdev.fast.ai/tutorial_colab.html up to and including `Writing a New Module and the Setup Cell for Each Notebook`.
-4. The `Writing a New Module and the Setup Cell for Each Notebook` contains a link to the general nbdev tutorial.  Follow the link (https://nbdev.fast.ai/tutorial.html) and complete the tutorial.  Make sure to complete everything up to (but not necessarily including) `View Docs Locally`.
+3. Make sure you have the applicable pre-requisites from Day 1 installed.
+4. Familiarize yourself with nbdev.  Follow the link (https://nbdev.fast.ai/tutorial.html) and complete the tutorial.  Make sure to complete everything up to (but not necessarily including) `View Docs Locally`.
 
 ## In-workshop activity of resolving merge conflicts
 1. Choose a person whose repo will be used (Person 1).
